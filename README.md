@@ -4,4 +4,4 @@ Welcome to my GitHub profile! I'm currently pursuing a degree in software engine
 
 ## Let's Connect
 
-- LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/in/RhaziAchraf)
+- LinkedIn: [Link](https://www.linkedin.com/in/RhaziAchraf)
